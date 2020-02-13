@@ -14,6 +14,7 @@
 		AF40E0FB23F2BC9C000D9D05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF40E0F923F2BC9C000D9D05 /* Main.storyboard */; };
 		AF40E0FD23F2BC9D000D9D05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF40E0FC23F2BC9D000D9D05 /* Assets.xcassets */; };
 		AF40E10023F2BC9D000D9D05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF40E0FE23F2BC9D000D9D05 /* LaunchScreen.storyboard */; };
+		AF5A046E23F5862700590F47 /* shootball.gif in Resources */ = {isa = PBXBuildFile; fileRef = AF5A046D23F5862600590F47 /* shootball.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AF40E0FC23F2BC9D000D9D05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF40E0FF23F2BC9D000D9D05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF40E10123F2BC9D000D9D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF5A046D23F5862600590F47 /* shootball.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = shootball.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		AF40E0F223F2BC9C000D9D05 /* AcceloGraph */ = {
 			isa = PBXGroup;
 			children = (
+				AF5A046D23F5862600590F47 /* shootball.gif */,
 				AF40E0F323F2BC9C000D9D05 /* AppDelegate.swift */,
 				AF40E0F523F2BC9C000D9D05 /* art.scnassets */,
 				AF40E0F723F2BC9C000D9D05 /* GameViewController.swift */,
@@ -132,6 +135,7 @@
 				AF40E10023F2BC9D000D9D05 /* LaunchScreen.storyboard in Resources */,
 				AF40E0FD23F2BC9D000D9D05 /* Assets.xcassets in Resources */,
 				AF40E0FB23F2BC9C000D9D05 /* Main.storyboard in Resources */,
+				AF5A046E23F5862700590F47 /* shootball.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
